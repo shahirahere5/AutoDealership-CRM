@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],darkMode:'class',theme:{extend:{colors:{brand:{50:'#eff6fc',100:'#dcecf9',200:'#b6d8f0',300:'#82b9e2',400:'#4995cd',500:'#227bbd',600:'#0f6cbd',700:'#10599a',800:'#124a7e',900:'#143f69'},canvas:'var(--bg)',surface:'var(--surface)',ink:'var(--text)',muted:'var(--muted)',line:'var(--border)'}}},plugins:[]};
